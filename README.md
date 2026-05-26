@@ -5,3 +5,4 @@
 - [Лабораторная 4 отчет](https://github.com/GoryninLA/sql/blob/main/lab_04/lab_04.md)
 - [Лабораторная 5 отчет](https://github.com/GoryninLA/sql/blob/main/lab_05/lab_05.md)
 - [Практическая работа 1](https://github.com/GoryninLA/sql/blob/main/pw_01/pw_01.md)
+- [Практическое задание 1 Click House](https://github.com/GoryninLA/sql/blob/main/pz_1_click_house/pz_1_click_house.md)
